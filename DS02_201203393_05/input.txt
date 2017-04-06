@@ -1,0 +1,10 @@
+9
+AT Austria German 32378 8139299
+BE Belgium Dutch 11800 10182034
+DE Germany German 137800 82087361
+DK Denmark Danish 16639 5356845
+ES Spain Spanish 194880 39167744
+FR France French 211200 58978172
+IT Italy Italian 116300 56735130
+LU Luxembourg French 998 429080
+SE Sweden Portuguese 35672 9918040
